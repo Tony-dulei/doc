@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<opml version="1.0">
+  <head>
+    <title>Feeds exported by Snackr</title>
+    <dateCreated>Wed Oct 18 14:01:03 2017 UTC</dateCreated>
+  </head>
+  <body>
+    <outline text="2ality feed" xmlUrl="http://feeds.feedburner.com/2ality" htmlUrl="http://2ality.com/"/>
+    <outline text="All Oracle Press Releases" xmlUrl="http://pressroom.oracle.com/search/feed?keyword=product:%22database%22&amp;group=PressReleases&amp;start=1" htmlUrl="https://www.oracle.com/press"/>
+    <outline text="All Oracle Press Releases" xmlUrl="http://www.oracle.com/us/corporate/press/rss/rss-pr.xml" htmlUrl="https://www.oracle.com/press"/>
+    <outline text="Ars Technica" xmlUrl="http://feeds.arstechnica.com/arstechnica/BAaf" htmlUrl="https://arstechnica.com"/>
+    <outline text="BBC News - Home" xmlUrl="http://news.bbc.co.uk/rss/newsonline_uk_edition/front_page/rss091.xml" htmlUrl="http://www.bbc.co.uk/news/"/>
+    <outline text="CLARA ONLINE techblog" xmlUrl="http://techblog.clara.jp/feed/" htmlUrl=""/>
+    <outline text="CNN.com - RSS Channel - App International Edition" xmlUrl="http://rss.cnn.com/rss/edition.rss" htmlUrl="http://www.cnn.com/app-international-edition/index.html"/>
+    <outline text="Christian Science Monitor | All Stories" xmlUrl="http://www.csmonitor.com/rss/top.rss" htmlUrl="http://www.csmonitor.com/"/>
+    <outline text="Credit Card Processing Insider" xmlUrl="http://feeds.feedburner.com/CreditCardProcessingInsider" htmlUrl="https://www.cardfellow.com"/>
+    <outline text="Credit Card Watcher" xmlUrl="http://feeds.feedburner.com/CreditCardWatcher" htmlUrl="http://www.creditcardwatcher.com"/>
+    <outline text="CreditCards.com News Top Story" xmlUrl="http://www.creditcards.com/credit-card-news/rss/news-top-story.rss" htmlUrl="https://www.creditcards.com/credit-card-news/rss/news-top-story.rss"/>
+    <outline text="CreditCards.com News: All credit card news" xmlUrl="http://www.creditcards.com/credit-card-news/rss/rss-view.php?id=25" htmlUrl="https://www.creditcards.com/credit-card-news/rss/rss-view.php?id=25"/>
+    <outline text="CyberSource Press Releases" xmlUrl="http://www.cybersource.com/news_and_events/rss/" htmlUrl="/content/cybersource/en-us"/>
+    <outline text="Data Security – TokenEx" xmlUrl="http://tokenex.com/category/data-security-2/feed/" htmlUrl=""/>
+    <outline text="DevZum" xmlUrl="http://feeds.feedburner.com/Designzum" htmlUrl="http://devzum.com"/>
+    <outline text="Dictionary.com Word of the Day" xmlUrl="http://dictionary.reference.com/wordoftheday/wotd.rss" htmlUrl="http://www.dictionary.com/wordoftheday/"/>
+    <outline text="FT中文网一周十大热门文章" xmlUrl="http://www.ftchinese.com/rss/hotstoryby7day&#xD;" htmlUrl=""/>
+    <outline text="FT中文网 - 今日焦点" xmlUrl="http://www.ftchinese.com/rss/news&#xD;" htmlUrl=""/>
+    <outline text="FT中文网_英国《金融时报》(Financial Times)" xmlUrl="http://www.ftchinese.com/rss/feed&#xD;" htmlUrl=""/>
+    <outline text="Finextra Research Community blogs" xmlUrl="http://www.finextra.com/rss/blogs.aspx" htmlUrl="https://www.finextra.com/blogs/"/>
+    <outline text="Finextra Research Headlines" xmlUrl="http://www.finextra.com/rss/headlines.aspx" htmlUrl="https://www.finextra.com/"/>
+    <outline text="Free Management Books" xmlUrl="http://feeds.feedburner.com/FreeManagementBooks" htmlUrl="http://www.free-management-ebooks.com/news"/>
+    <outline text="IT eBooks" xmlUrl="http://feeds.feedburner.com/IT-eBooks" htmlUrl="http://it-ebooks.info"/>
+    <outline text="Jimmy's Blog" xmlUrl="http://jimmod.com/blog/feed/" htmlUrl=""/>
+    <outline text="Latest Finextra Research Blockchain Headlines" xmlUrl="http://www.finextra.com/rss/channel.aspx?channel=blockchain" htmlUrl="https://www.finextra.com/"/>
+    <outline text="Latest Finextra Research Cards Headlines" xmlUrl="http://www.finextra.com/rss/channel.aspx?channel=cards" htmlUrl="https://www.finextra.com/"/>
+    <outline text="Latest Finextra Research Payments Headlines" xmlUrl="http://www.finextra.com/rss/channel.aspx?channel=payments" htmlUrl="https://www.finextra.com/"/>
+    <outline text="Latest Finextra Research Security Headlines" xmlUrl="http://www.finextra.com/rss/channel.aspx?channel=security" htmlUrl="https://www.finextra.com/"/>
+    <outline text="Latest Finextra Research Start ups Headlines" xmlUrl="http://www.finextra.com/rss/channel.aspx?channel=startups" htmlUrl="https://www.finextra.com/"/>
+    <outline text="Martin Fowler" xmlUrl="http://martinfowler.com/feed.atom" htmlUrl="https://martinfowler.com"/>
+    <outline text="Microservice architecture" xmlUrl="http://microservices.io/feed.xml" htmlUrl="http://microservices.io"/>
+    <outline text="Oracle PartnerNetwork News" xmlUrl="http://blogs.oracle.com/partnernews/feed/entries/rss?cat=Applications" htmlUrl="https://blogs.oracle.com/partnernews/"/>
+    <outline text="Oracle PartnerNetwork News" xmlUrl="http://blogs.oracle.com/partnernews/feed/entries/rss?cat=Engineered+Systems" htmlUrl="https://blogs.oracle.com/partnernews/"/>
+    <outline text="Oracle PartnerNetwork News" xmlUrl="http://blogs.oracle.com/partnernews/feed/entries/rss?cat=Middleware" htmlUrl="https://blogs.oracle.com/partnernews/"/>
+    <outline text="PCI Security Standards Council  Press Releases" xmlUrl="https://www.pcisecuritystandards.org/news_events/rss.php?type=news" htmlUrl="/news_events/press_releases.php"/>
+    <outline text="Payments Views from Glenbrook Partners" xmlUrl="http://feeds2.feedburner.com/PaymentsViews" htmlUrl="http://paymentsviews.com"/>
+    <outline text="SANS Institute | Newsletters - Newsbites - RSS" xmlUrl="https://www.sans.org/newsletters/newsbites/rss" htmlUrl="https://www.sans.org/newsletters/newsbites/rss/"/>
+    <outline text="SecurityWeek RSS Feed" xmlUrl="http://feeds.feedburner.com/securityweek" htmlUrl="http://www.securityweek.com"/>
+    <outline text="TechCrunch" xmlUrl="http://feeds.feedburner.com/TechCrunch/" htmlUrl="https://techcrunch.com"/>
+    <outline text="The Akamai Blog" xmlUrl="http://feeds.feedburner.com/TheAkamaiBlog" htmlUrl="https://blogs.akamai.com/"/>
+    <outline text="The Latest Content - Techopedia.com" xmlUrl="http://www.techopedia.com/feed/content/rss" htmlUrl="http://www.techopedia.com/feed/content/rss"/>
+    <outline text="The Paypers Ecommerce" xmlUrl="http://feeds.feedburner.com/ThePaypersE-commerce" htmlUrl="https://www.thepaypers.com/"/>
+    <outline text="The Paypers Headlines" xmlUrl="http://feeds.feedburner.com/thepaypers/cfKW" htmlUrl="https://www.thepaypers.com/"/>
+    <outline text="The Paypers Mobile Payments" xmlUrl="http://feeds.feedburner.com/ThePaypersMobilePayments" htmlUrl="https://www.thepaypers.com/"/>
+    <outline text="The Paypers Online Payments" xmlUrl="http://feeds.feedburner.com/ThePaypersOnlinePayments" htmlUrl="https://www.thepaypers.com/"/>
+    <outline text="UniBul's Money Blog" xmlUrl="http://feeds.feedburner.com/Credit-Card-Processing-Blog-UniBul" htmlUrl="http://blog.unibulmerchantservices.com"/>
+    <outline text="WSJ.com: Markets" xmlUrl="http://online.wsj.com/xml/rss/3_7031.xml" htmlUrl="http://online.wsj.com"/>
+    <outline text="WSJ.com: Opinion" xmlUrl="http://online.wsj.com/xml/rss/3_7041.xml" htmlUrl="http://online.wsj.com/opinion"/>
+    <outline text="WSJ.com: US Business" xmlUrl="http://online.wsj.com/xml/rss/3_7014.xml" htmlUrl="http://online.wsj.com"/>
+    <outline text="WSJ.com: WSJD" xmlUrl="http://online.wsj.com/xml/rss/3_7455.xml" htmlUrl="http://online.wsj.com"/>
+    <outline text="WSJ.com: World News" xmlUrl="http://online.wsj.com/xml/rss/3_7085.xml" htmlUrl="http://online.wsj.com/page/2_0006.html"/>
+    <outline text="What's New" xmlUrl="http://aws.amazon.com/new/feed/" htmlUrl="https://aws.amazon.com/new/"/>
+    <outline text="When Can I Use updates" xmlUrl="http://feeds.feedburner.com/WhenCanIUse" htmlUrl="http://caniuse.com/feed.php"/>
+    <outline text="Word of the Day" xmlUrl="http://idioms.thefreedictionary.com/_/WoD/rss.aspx?type=idiom\" htmlUrl="https://www.thefreedictionary.com"/>
+    <outline text="Yahoo Tech" xmlUrl="https://www.yahoo.com/tech/rss" htmlUrl="http://www.yahoo.com/tech"/>
+    <outline text="[Feed can't be read]" xmlUrl="http://blogs.oracle.com/partnernews/feed/entries/rss?cat=Cloud+Services" htmlUrl="null"/>
+    <outline text="[Feed can't be read]" xmlUrl="http://www.feeseeker.com/blog/page/2/?feed=rss2" htmlUrl="null"/>
+    <outline text="credit card forum [the blog]" xmlUrl="http://creditcardforum.com/blog/feed/" htmlUrl=""/>
+    <outline text="superhero.js" xmlUrl="http://superherojs.com/feed.atom" htmlUrl="http://superherojs.com/"/>
+    <outline text="ペイメントナビ" xmlUrl="http://www.paymentnavi.com/feed" htmlUrl=""/>
+  </body>
+</opml>
